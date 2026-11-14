@@ -1,0 +1,27 @@
+extensions/jot/package.json
+  s_81115088ed856d::t_7047132edc7456 45
+extensions/jot/src/add-jot.tsx
+  s_81115088ed856d::t_fbd6bc30ad4824 15,37,56-61,68-70,119-120,124-131
+extensions/jot/src/lib/capture.ts
+  s_81115088ed856d::t_5a9983b603bfe2 2,21
+extensions/jot/src/lib/cli.ts
+  s_81115088ed856d::t_3f748e2af188da 2,99,170-171,239
+extensions/jot/src/search-jots.tsx
+  s_81115088ed856d::t_708828ffe4521e 202
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1235e6234448b1428e513af3bd2b16773fa6a4c5",
+  "prompts": {},
+  "sessions": {
+    "s_81115088ed856d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c2c1d16-f4bf-4d64-b3fa-155a6dd74a4a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Mohak Bajaj <bmohak87@gmail.com>"
+    }
+  }
+}
