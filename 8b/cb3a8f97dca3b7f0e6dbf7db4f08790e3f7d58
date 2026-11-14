@@ -1,0 +1,52 @@
+extensions/jot/.gitignore
+  h_465c0699bc2db3 1-11
+extensions/jot/.prettierrc
+  h_465c0699bc2db3 1-4
+extensions/jot/CHANGELOG.md
+  h_465c0699bc2db3 1-8
+extensions/jot/README.md
+  h_465c0699bc2db3 1-40
+extensions/jot/eslint.config.js
+  h_465c0699bc2db3 1-4
+extensions/jot/package-lock.json
+  h_465c0699bc2db3 1-3730
+extensions/jot/package.json
+  h_465c0699bc2db3 1-118
+extensions/jot/src/add-jot.tsx
+  h_465c0699bc2db3 1-188
+extensions/jot/src/annotate-screen.tsx
+  h_465c0699bc2db3 1-5
+extensions/jot/src/lib/capture.ts
+  h_465c0699bc2db3 1-32
+extensions/jot/src/lib/cli.ts
+  h_465c0699bc2db3 1-238
+extensions/jot/src/lib/get-jot.tsx
+  h_465c0699bc2db3 1-33
+extensions/jot/src/lib/parse.ts
+  h_465c0699bc2db3 1-262
+extensions/jot/src/quick-draw.tsx
+  h_465c0699bc2db3 1-5
+extensions/jot/src/quick-jot.tsx
+  h_465c0699bc2db3 1-24
+extensions/jot/src/quick-note.tsx
+  h_465c0699bc2db3 1-5
+extensions/jot/src/search-jots.tsx
+  h_465c0699bc2db3 1-381
+extensions/jot/src/voice-note.tsx
+  h_465c0699bc2db3 1-5
+extensions/jot/test/parse.test.ts
+  h_465c0699bc2db3 1-230
+extensions/jot/tsconfig.json
+  h_465c0699bc2db3 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8bcb3a8f97dca3b7f0e6dbf7db4f08790e3f7d58",
+  "prompts": {},
+  "humans": {
+    "h_465c0699bc2db3": {
+      "author": "Mohak Bajaj <bmohak87@gmail.com>"
+    }
+  }
+}
