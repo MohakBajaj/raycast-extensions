@@ -1,0 +1,21 @@
+extensions/jot/src/add-jot.tsx
+  s_81115088ed856d::t_f86943a01515b9 135
+extensions/jot/src/search-jots.tsx
+  s_81115088ed856d::t_0c4c19e6685c4c 162-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6743f399f3b58fa0441fc2192c040512cd264762",
+  "prompts": {},
+  "sessions": {
+    "s_81115088ed856d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c2c1d16-f4bf-4d64-b3fa-155a6dd74a4a",
+        "model": "unknown"
+      },
+      "human_author": "Mohak Bajaj <bmohak87@gmail.com>"
+    }
+  }
+}
